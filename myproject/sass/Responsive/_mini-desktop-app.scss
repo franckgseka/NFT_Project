@@ -1,0 +1,31 @@
+@media screen and (max-width: $mini-desktop) {
+  .righted-element .list-logo {
+    display: inline-flex;
+    list-style: none;
+    float: right;
+    margin: 2rem 3rem;
+  }
+
+  .bottomed-element {
+    grid-area: 4 / 1 / 5 / 2;
+    width: max-content;
+  }
+
+  .center-element .text-centered {
+    position: absolute;
+    font-size: 5em;
+    letter-spacing: 0.1em;
+    color: #3c3a3a;
+    font-weight: 900;
+    z-index: 100;
+    margin: 33rem 0 0 0;
+    width: max-content;
+  }
+
+  .center-element .bg-coming-soon {
+    height: auto;
+    max-width: 751px;
+    margin: 0rem -6rem;
+    float: left;
+  }
+}

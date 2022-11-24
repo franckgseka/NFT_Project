@@ -1,0 +1,34 @@
+@media screen and (max-width: $iphone-app) {
+  body {
+    .container {
+      .righted-element {
+        .list-logo {
+          display: block;
+          list-style: none;
+          float: right;
+          margin: 2rem 3rem;
+        }
+      }
+      .center-element {
+        grid-area: 1 / 2 / 5 / 4;
+        position: fixed;
+        bottom: 0;
+        margin: 0 10rem;
+      }
+
+      .bottomed-element {
+        grid-area: 4 / 1 / 5 / 2;
+        position: fixed;
+        bottom: 0;
+        margin: 0 0 4rem 0;
+      }
+      .right-bottomed {
+        .text-teaser {
+          position: fixed;
+          bottom: 0;
+          margin: 0 0 6rem 0;
+        }
+      }
+    }
+  }
+}

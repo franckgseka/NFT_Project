@@ -1,0 +1,49 @@
+@media screen and (max-width: $ipad-app) {
+  body {
+    .container {
+
+      .righted-element .list-logo {
+        display: inline-flex;
+        list-style: none;
+        float: right;
+        margin: 2rem 3rem;
+      }
+
+      .bottomed-element {
+        .list {
+          margin: 5.5rem 3rem 3rem 3rem;
+          position: fixed;
+          bottom: 0;
+        }
+      }
+
+      .center-element {
+        .img-foot {
+          position: fixed;
+          bottom: 0;
+        }
+
+        .center-element.text-centered {
+            font-size: 5em;
+            letter-spacing: 0.1em;
+            color: #3c3a3a;
+            font-weight: 900;
+            z-index: 100;
+            margin: 0 0 14rem -4rem;
+            position: fixed;
+            bottom: 0;
+          }
+      }
+
+      .right-bottomed {
+        .text-teaser {
+          float: right;
+          margin: 8rem 3rem 5rem 3rem;
+          font-family: "andale-mono", sans-serif;
+          position: fixed;
+          bottom: 0;
+        }
+      }
+    }
+  }
+}

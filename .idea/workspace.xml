@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38dd7f91-4bbf-4539-ae90-41017d3a8b64" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/metanfeet-phase-1" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/metanfeet-phase-1" />
+  </component>
+  <component name="ProjectId" id="23k7b9xi5rEsKH5H09OoElHNMqT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/myproject/sass" />
+      <recent name="$PROJECT_DIR$/js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/myproject/stylesheets" />
+      <recent name="$PROJECT_DIR$/myproject/sass" />
+      <recent name="$PROJECT_DIR$/assets/sass" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38dd7f91-4bbf-4539-ae90-41017d3a8b64" name="Changes" comment="" />
+      <created>1642266301572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642266301572</updated>
+      <workItem from="1642266304096" duration="4465000" />
+      <workItem from="1642330381817" duration="979000" />
+      <workItem from="1642334543691" duration="5000" />
+      <workItem from="1642334554979" duration="43000" />
+      <workItem from="1642334645650" duration="27000" />
+      <workItem from="1642334758180" duration="15000" />
+      <workItem from="1642335189361" duration="5000" />
+      <workItem from="1642335295721" duration="491000" />
+      <workItem from="1642335974945" duration="3409000" />
+      <workItem from="1642341941692" duration="1536000" />
+      <workItem from="1642345379010" duration="99000" />
+      <workItem from="1642345482647" duration="740000" />
+      <workItem from="1642346264640" duration="1377000" />
+      <workItem from="1642347792082" duration="11734000" />
+      <workItem from="1643198049225" duration="570000" />
+      <workItem from="1643985906291" duration="4359000" />
+      <workItem from="1644589760693" duration="12000" />
+      <workItem from="1644592786172" duration="231000" />
+      <workItem from="1644593124764" duration="26000" />
+      <workItem from="1644593878204" duration="53000" />
+      <workItem from="1645002624636" duration="714000" />
+      <workItem from="1645354334456" duration="5372000" />
+      <workItem from="1645402092502" duration="1341000" />
+      <workItem from="1646208458270" duration="583000" />
+      <workItem from="1646209282772" duration="17000" />
+      <workItem from="1646209457807" duration="1614000" />
+      <workItem from="1646743749898" duration="1611000" />
+      <workItem from="1646750500644" duration="114000" />
+      <workItem from="1646829869273" duration="5151000" />
+      <workItem from="1646843216823" duration="3998000" />
+      <workItem from="1647185639011" duration="387000" />
+      <workItem from="1647534908180" duration="2323000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
